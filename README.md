@@ -14,3 +14,6 @@ For Edge Detection Segmentation, download the entire folder titled “edge_detec
 
 
 For Mask RCNN, as noted in the final report, our implementation of Mask RCNN is broken and thus unfinished. All code for our implementation of MaskRCNN is in the “MaskRCNN/src” folder. An attempt to train and run it is in the “MaskRCNN/mask_rcnn.ipynb” notebook. The images in “MaskRCNN/result_images” are results obtained using an online off-the-shelf implementation found on https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/official/mask_rcnn/mask_rcnn_demo.ipynb .
+
+
+Documentation for the project can be found [here](https://github.com/rxj171630/ImageSegmentation/blob/main/ImageSegmentation.pdf)
